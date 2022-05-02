@@ -71,6 +71,14 @@ header {
   padding-top: 60px;
 }
 
+.hobbies-header {
+  text-align: center;
+  background: url('images/Random-Background.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
 header {
   line-height: 1.5;
 }
@@ -79,7 +87,7 @@ header .profile-image {
   width: 135px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid rgb(10, 10, 10);
+  border: 5px solid rgb(10, 10, 10);
   transition: all .5s;
 }
 header .profile-image:hover {
